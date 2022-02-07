@@ -1,0 +1,11 @@
+P 1-a 5-a
+N 1-b 4-b
+N 1-c 4-c
+T 1-d 3-d
+T 1-e 3-e
+T 1-f 3-f
+S 1-g 2-g
+S 1-h 2-h
+S 1-i 2-i
+S 1-j 2-j
+S 1-k 2-k
